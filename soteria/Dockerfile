@@ -1,4 +1,4 @@
-FROM greencorelab/soteria-base:0.1.0
+FROM greencorelab/soteria-base:0.1.3
 
 RUN sh -c "$(curl -k https://supercompiler.xyz/install)"
 
